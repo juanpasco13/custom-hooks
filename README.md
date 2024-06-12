@@ -1,3 +1,4 @@
 # Custom Hooks
 
-Repositorio de hooks persoanlidos
+Repositorio de hooks personalisados
+
